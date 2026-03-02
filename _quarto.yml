@@ -11,7 +11,7 @@ website:
         href: about.qmd
       - icon: github
         href: https://github.com/7yl4r
- format:
+format:
   html:
     theme: cosmo
     css: styles.css
