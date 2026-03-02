@@ -1,0 +1,7 @@
+---
+title: "Example Article"
+author: "Tylar"
+date: "2026-01-16"
+---
+
+This is an example article.
