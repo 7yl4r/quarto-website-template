@@ -1,7 +1,9 @@
 ---
-title: "Example Article"
+title: "USF Libraries Workshop"
 author: "Tylar"
-date: "2026-01-16"
+date: "2026-03-02"
 ---
 
-This is an example article.
+This website begun with a workshop from USF Libraries.
+
+![usf libraries logo](static/img/usf-libraries-logo.png)
